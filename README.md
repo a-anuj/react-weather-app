@@ -4,7 +4,7 @@ This web-application can be used to find the climatic conditions of various citi
 The weather will be updated automatically because the raw data has been fetched from a Application Programming Interface (API).
 
 ## User Interface of the web-app
-![Image](src\assets\scrnshot.png)
+![Image](src/assets/scrnshot.png)
 
 ## How to use this app
 - Clone this repository in your local machine
